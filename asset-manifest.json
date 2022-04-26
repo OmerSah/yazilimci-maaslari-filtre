@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yazilimci-maaslari-filtre/static/css/main.a1df1010.css",
+    "main.js": "/yazilimci-maaslari-filtre/static/js/main.966661cc.js",
+    "static/js/787.fd238550.chunk.js": "/yazilimci-maaslari-filtre/static/js/787.fd238550.chunk.js",
+    "index.html": "/yazilimci-maaslari-filtre/index.html",
+    "main.a1df1010.css.map": "/yazilimci-maaslari-filtre/static/css/main.a1df1010.css.map",
+    "main.966661cc.js.map": "/yazilimci-maaslari-filtre/static/js/main.966661cc.js.map",
+    "787.fd238550.chunk.js.map": "/yazilimci-maaslari-filtre/static/js/787.fd238550.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1df1010.css",
+    "static/js/main.966661cc.js"
+  ]
+}
